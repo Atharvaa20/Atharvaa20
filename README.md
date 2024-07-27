@@ -25,7 +25,7 @@ Continuously evolving and expanding my skill set. Currently diving into:
 ## 💼 Work
 
 - Currently, I'm a student studying in my 3rd year of B.Tech.
-- Previously contributed to [mention past projects or experiences].
+
 
 ## 📫 Get in Touch
 
