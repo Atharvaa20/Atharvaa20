@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Atharva!</h1>
 
 <p align="center">
-  <a href="https:https://www.linkedin.com/in/atharva-gurav-a77387229/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/atharva-gurav-a77387229/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guravatharv2003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
