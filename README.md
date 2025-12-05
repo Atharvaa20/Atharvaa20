@@ -11,9 +11,9 @@
 
 ## About Me
 
-🚀 Welcome to my GitHub! I'm Atharva Gurav, a student pursuing my B.Tech in Computer Science & Engineering at KIT's COEK. 
+🚀 Welcome to my GitHub! I'm Atharva Gurav
 - **Languages:** Python, Java, HTML, CSS, JavaScript, SQL, Dart
-- **Frameworks:** React.js, Streamit
+- **Frameworks:** React.js, Streamlit
 - **Tools:** VS Code, Android Studio, Google Colab, Microsoft Power BI, Tableau
 
 ## 🌱 Currently Learning
@@ -22,9 +22,7 @@ Continuously evolving and expanding my skill set. Currently diving into:
 - Web Development
 - Machine Learning
 
-## 💼 Work
 
-- Currently, I'm a student studying in my 3rd year of B.Tech.
 
 
 ## 📫 Get in Touch
